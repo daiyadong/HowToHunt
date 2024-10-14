@@ -2,7 +2,11 @@
 - Application programming interfaces (APIs) have become a critical part of almost every business. APIs are responsible for transferring information between systems within a company or to external companies. For example, when you log in to a website like Google or Facebook, an API processes your login credentials to verify they are correct.
 
 1. Swagger UI Documentation
+1. Swagger UI 文档
+
 2. Dictionary Attack | Brute force
+2. 字典攻击 | 暴力破解
+
 3. Common wordlist for API Enum :
 - https://wordlists.assetnote.io/
 - https://github.com/Net-hunter121/API-Wordlist
